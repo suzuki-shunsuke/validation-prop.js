@@ -1,0 +1,1 @@
+../../../validation-rule-set.js/dist/validation-rule-set.umd.js

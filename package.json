@@ -1,0 +1,34 @@
+{
+  "name": "validation-prop.js",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "npm run test:node",
+    "test:node": "mocha test/node/main.js",
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suzuki-shunsuke/validation-prop.js"
+  },
+  "keywords": [],
+  "author": "Suzuki Shunsuke <suzuki.shunsuke.1989@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suzuki-shunsuke/validation-prop.js/issues"
+  },
+  "homepage": "https://github.com/suzuki-shunsuke/validation-prop.js",
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "bower": "^1.7.9",
+    "chai": "^3.5.0",
+    "mithril": "^0.2.4",
+    "mocha": "^2.5.3",
+    "validator": "^5.2.0",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+  }
+}
